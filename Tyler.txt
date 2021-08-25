@@ -1,0 +1,14 @@
+PS C:\Users\MyPC> mkdir SoftDevI
+PS C:\Users\MyPC> cd SoftDevI
+PS C:\Users\MyPC\SoftDevI> mkdir Unit01
+PS C:\Users\MyPC\SoftDevI> cd Unit01
+PS C:\Users\MyPC\SoftDevI\Unit01> notepad
+PS C:\Users\MyPC\SoftDevI\Unit01> cp file01.txt file02.txt
+PS C:\Users\MyPC\SoftDevI\Unit01> mkdir Assignment01
+PS C:\Users\MyPC\SoftDevI\Unit01> cd Assignment01
+PS C:\Users\MyPC\SoftDevI\Unit01\Assignment01> mkdir Tyler
+PS C:\Users\MyPC\SoftDevI\Unit01\Assignment01> cd Tyler
+PS C:\Users\MyPC\SoftDevI\Unit01\Assignment01\Tyler> mv c:\users\MyPC\SoftDevI\Unit01\file02.txt
+PS C:\Users\MyPC\SoftDevI\Unit01\Assignment01\Tyler> notepad file02.txt
+PS C:\Users\MyPC\SoftDevI\Unit01\Assignment01\Tyler> cd C:\Users\MyPC\SoftDevI\Unit01\
+PS C:\Users\MyPC\SoftDevI\Unit01> rm Assignment01
